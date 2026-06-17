@@ -1,6 +1,6 @@
 Archfetch
 
-// use ONLY in Windows \\
+// use ONLY for Windows \\
 
 clone repository -> git clone https://github.com/LOLkekLO/Archfetch.git
 
